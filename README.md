@@ -1,43 +1,65 @@
-<h1>Dev Radar</h1>
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+</h1>
 
-![Sem título](https://user-images.githubusercontent.com/39133506/76134791-d3a00400-5fff-11ea-94f1-d2c528fd720b.png)
+<h4 align="center">
+  🚀 Semana OmniStack 10.0
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-10">
+
+  
+  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+  </a>
+
+  <a href="https://github.com/Rocketseat/semana-omnistack-10/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Rocketseat/semana-omnistack-10">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Frontend" src=".github/devradar.png" width="100%">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Projeto
+
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
 
-🚀 Technologies
-<ul>
-    <li><a href="https://reactjs.org/" rel="nofollow">ReactJS</a></li>
-    <li><a href="https://reactnative.dev/?source=post_page-----6e8a2396eea1----------------------" rel="nofollow">React Native</a></li>
-    <li><a href="https://reactnavigation.org/" rel="nofollow">React Navigation</a></li>
-    <li><a href="https://nodejs.org" rel="nofollow">NodeJS</a></li>
-    <li><a href="https://expressjs.com/pt-br/" rel="nofollow">Express</a></li>
 
-</ul>
+## 🤔 Como contribuir
 
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
+## :memo: Licença
 
-🚀 Instalação e execução
-ps: Se precisar de ajuda para fazer um clone, esse tutorial aqui vai te ajudar 💖
-<ol>
-<li>Abra o terminal do seu computador. Se estiver no Windows pode ser o CMD ou Powershell.</li>
-<li>Altere o diretório de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.</li>
-<li>Faça um clone desse repositório rodando:</li>
-<li>git clone https://github.com/pedromm65/Dev-Radar.git;</li>
-<li>Entre na pasta rodando pelo terminal: cd Dev-Radar;</li>
-<li>Rode yarn para instalar as dependências do projeto;</li>
-<li>Rode yarn dev para iniciar o servidor de desenvolvimento.</li>
-</ol>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-🤔 Como contribuir
-Se quiser contribuir para esse repositório aqui, seja corrigindo algum problema, adicionando comentários ou melhorando a documentação, você pode seguir esse tutorial abaixo:
+---
 
-<ul>
-<li>Faça um fork desse repositório;</li>
-<li>Entre no seu perfil no GitHub e faça um clone do repositório que você fez um fork;</li>
-<li>Cria uma branch com a sua alteração: git checkout -b minha-alteracao;</li>
-<li>Faça as alterações necessárias no código ou documentação;</li>
-<li>Faça commit das suas alterações: git commit -m 'feat: Minha nova feature';</li>
-<li>Faça push para a sua branch: git push origin minha-alteracao;</li>
-<li>Agora é só abrir a sua Pull Request no repositório que você fez o fork;</li>
-<li>Depois que o merge da sua pull request for feito, você pode deletar a sua branch.</li>
-</ul>
